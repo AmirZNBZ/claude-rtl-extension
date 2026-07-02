@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Claude RTL",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Right-to-left formatting for Persian, Arabic, and Hebrew text on Claude.ai",
+    "description": "Extension description"
+  },
+  "toggleCommandDescription": {
+    "message": "Toggle RTL formatting",
+    "description": "Keyboard shortcut description"
+  }
+}

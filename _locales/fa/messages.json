@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Claude RTL فارسی",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "متن‌های فارسی، عربی و عبری در Claude.ai را راست‌به‌چپ می‌کند",
+    "description": "Extension description"
+  },
+  "toggleCommandDescription": {
+    "message": "فعال/غیرفعال کردن RTL",
+    "description": "Keyboard shortcut description"
+  }
+}
