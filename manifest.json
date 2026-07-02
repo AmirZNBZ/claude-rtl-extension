@@ -31,8 +31,8 @@
   "commands": {
     "toggle-rtl": {
       "suggested_key": {
-        "default": "Alt+Shift+R",
-        "mac": "Alt+Shift+R"
+        "default": "Alt+R",
+        "mac": "Alt+R"
       },
       "description": "__MSG_toggleCommandDescription__"
     }
